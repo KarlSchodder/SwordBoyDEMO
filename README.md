@@ -9,7 +9,7 @@ Right click the index.html and select Open With Live Server.
 
 VERCEL HOSTED VERSION:
 
-
+https://sword-boy-demo-2.vercel.app/
 
 BASIC FEATURES:
 
