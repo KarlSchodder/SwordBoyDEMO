@@ -26,7 +26,7 @@ R to refresh the page to restart.
 
 Recommended to play at 67% or 75% (Ctrl-).
 
-
+<br>
 
 Hover over uncollected resources to attract them to the player.
 
@@ -42,7 +42,7 @@ Press E at the anvil (right) to use iron (red) to fortify your sword (increase d
 
 Press E inbetween them to use one flint and one iron in order to increase your campfire health.
 
-
+<br>
 
 Get hit by an enemy and lose the game.
 
@@ -50,7 +50,7 @@ Every enemy that enters your campfire makes it lose 1 health. When it reaches 0 
 
 Be careful, your sword will also make the campfire lose health.
 
-
+<br>
 
 Enemy spawners.
 
@@ -61,7 +61,6 @@ Snappy movement.
 Simulated "sword" physics with other objects.
 
 Goblin economy (merchant goblin appears whenever 3 iron or flint are successfully captured by basic goblins).
-
 
 ### BUGS:
 
