@@ -2,6 +2,15 @@
 A game made in javascript using canvas over a period of two weeks as a school project. 
 The code is kept in the original state, but a cleaner, bug-free version will be uploaded at some point.
 
+RUN:
+
+Install live server extension in visual studio code.
+Right click the index.html and select Open With Live Server.
+
+VERCEL HOSTED VERSION:
+
+
+
 BASIC FEATURES:
 
 WASD to move.
