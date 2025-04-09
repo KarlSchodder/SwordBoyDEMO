@@ -1,5 +1,5 @@
 # SwordBoyDEMO
-A game made in javascript using canvas over a period of two weeks as a school project. 
+A game made in javascript using canvas over a period of two weeks as a school project. My first ever coding project. 
 The code is kept in the original state, but a cleaner, bug-free version will be uploaded at some point.
 
 RUN:
