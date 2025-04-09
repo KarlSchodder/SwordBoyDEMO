@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SwordBoy</title>
+</head>
+<body>
+    <canvas id="canvas" style="background-color: #ffffff;"></canvas>
+    <script type="module" src="main.js"></script>
+<style>
+    #canvas {
+      cursor: none;
+    }
+
+    body, html {
+      margin: 0;
+      overflow: hidden;
+    } 
+</style>
+
+<script>
+    // Add R key refresh functionality
+    document.addEventListener('keydown', function(event) {
+        // Check if the pressed key is 'r' or 'R'
+        if (event.key === 'r' || event.key === 'R') {
+            // Refresh the page
+            location.reload();
+        }
+    });
+</script>
+</body>
+</html>
